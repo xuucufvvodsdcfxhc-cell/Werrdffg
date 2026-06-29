@@ -1,0 +1,6 @@
+{
+  "name": "WebSketch Pro",
+  "description": "منصة احترافية لبناء وتصميم صفحات الويب الحديثة مرئياً عن طريق السحب والإفلات وتعديل الكود مباشرة بالاتجاهين مع مساعد ذكاء اصطناعي Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
